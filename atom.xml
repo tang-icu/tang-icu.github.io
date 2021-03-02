@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tang-icu.github.io</id>
     <title>Tang</title>
-    <updated>2021-02-26T10:30:45.886Z</updated>
+    <updated>2021-03-02T11:09:32.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tang-icu.github.io"/>
     <link rel="self" href="https://tang-icu.github.io/atom.xml"/>
-    <subtitle>保持心中的那道光，未来有人可能靠这道光走出黑暗</subtitle>
+    <subtitle>保持心中的那道光</subtitle>
     <logo>https://tang-icu.github.io/images/avatar.png</logo>
     <icon>https://tang-icu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Tang</rights>
